@@ -17,7 +17,7 @@ function setup() {
 
 function draw() {
 s.play();
-window.open("https://anshugahlyan.github.io/opss/index.html");
+//window.open("https://anshugahlyan.github.io/opss/index.html");
   background(0);
   drawSprites();
 
